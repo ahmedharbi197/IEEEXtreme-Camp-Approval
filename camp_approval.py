@@ -3,6 +3,6 @@ def maximum(l):
     return max(l)
 
 
-#return backword string
-def backword(s):
+#return backward string
+def backward(s):
     return s[::-1]
